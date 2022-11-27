@@ -14,3 +14,6 @@
 이후 모든 작성하는 파일들을 push 해도 변경 사항이 갱신 안되는 문제 발생
 
 필수 과제중 학습 내용에 관한 것은 study.md 파일에 있음
+
+Liquid Exception: Liquid syntax error (line 52): 'if' tag was never closed in /_layouts/post.html
+오류 발생
