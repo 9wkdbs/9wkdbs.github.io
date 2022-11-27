@@ -17,3 +17,5 @@
 
 Liquid Exception: Liquid syntax error (line 52): 'if' tag was never closed in /_layouts/post.html
 오류 발생
+시도 1 if 문 삭제
+시도 2 {% endif %} 추가
