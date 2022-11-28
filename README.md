@@ -19,3 +19,4 @@ Liquid Exception: Liquid syntax error (line 52): 'if' tag was never closed in /_
 오류 발생
 시도 1 if 문 삭제
 시도 2 {% endif %} 추가
+-> 오류는 해결 but 원하는 결과 출력 x
